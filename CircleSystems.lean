@@ -4,3 +4,4 @@ import CircleSystems.Coaxal
 import CircleSystems.Johnson
 import CircleSystems.SimsonSteiner
 import CircleSystems.L14
+import CircleSystems.Bridge
